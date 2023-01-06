@@ -4,5 +4,6 @@
         <page name='Classes'/>
         <page name='Enum'/>
         <page name='Struct'/>
+        <page name='Properties'/>
     </pages>
 </playground>
