@@ -6,5 +6,6 @@
         <page name='Struct'/>
         <page name='Properties'/>
         <page name='Subscripts'/>
+        <page name='Inheritance'/>
     </pages>
 </playground>
