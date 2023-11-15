@@ -26,3 +26,15 @@ print(counter)
 let number = 120
 print(number.isMultiple(of: 3))
 print(120.isMultiple(of: 3))
+
+// Decimal numbers, Floating-point number, Double
+let numbers = 0.1 + 0.2
+print(numbers)
+
+let a = 1
+let b = 2.0
+let c = a + Int(b)
+let d = Double(a) + b
+
+var rating = 5.0
+rating *= 2
