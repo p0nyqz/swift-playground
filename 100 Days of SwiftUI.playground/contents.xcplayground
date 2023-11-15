@@ -3,5 +3,6 @@
     <pages>
         <page name='Strings'/>
         <page name='Variables'/>
+        <page name='Numbers'/>
     </pages>
 </playground>
