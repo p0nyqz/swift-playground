@@ -44,7 +44,7 @@ let message = "Hello, my name is \(name) and I'm \(age) years old."
 print(message)
 
 let number = 11
-let missionMessage = "Apollp " + String(number) + " landed on the moon."
+let missionMessage = "Apollo " + String(number) + " landed on the moon."
 
 let missionMessage2 = "Apollo \(number) landed on the moon."
 
