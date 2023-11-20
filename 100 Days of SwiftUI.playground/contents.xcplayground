@@ -6,5 +6,6 @@
         <page name='Numbers'/>
         <page name='Booleans'/>
         <page name='1.Celsius to Fahrenheit'/>
+        <page name='1.Simple Data Types Summary'/>
     </pages>
 </playground>
