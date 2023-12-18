@@ -9,5 +9,6 @@
         <page name='1Checkpoint Celsius to Fahrenheit'/>
         <page name='Arrays'/>
         <page name='Dictionaries'/>
+        <page name='Test'/>
     </pages>
 </playground>
