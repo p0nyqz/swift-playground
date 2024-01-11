@@ -10,5 +10,7 @@
         <page name='Arrays'/>
         <page name='Dictionaries'/>
         <page name='Sets'/>
+        <page name='Annotations'/>
+        <page name='Enums'/>
     </pages>
 </playground>
