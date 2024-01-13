@@ -2,6 +2,7 @@
 
 import Foundation
 
+// Enums
 enum Weekday {
     case monday
     case tuesday

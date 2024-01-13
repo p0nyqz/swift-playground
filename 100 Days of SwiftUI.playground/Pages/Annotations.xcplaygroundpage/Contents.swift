@@ -2,6 +2,7 @@
 
 import Foundation
 
+// Type Annotations
 let surname:String = "Lasso"
 var score:Int = 0
 var otherScore: Double = 0
@@ -14,8 +15,10 @@ var albums: [String] = ["Red", "Fearless"]
 var user: [String: String] = ["id": "@twostraws"]
 var books: Set<String> = Set(["The Blues Eye", "Foundation", "Girl, Woman, Other"])
 
+// Array with stings
 var soda: [String] = ["Coke", "Pepsi", "Irn-Bru"]
-// Emppty array
+
+// Empty array
 var teams: [String] = [String]()
 var cities: [String] = []
 var clues = [String]()
@@ -33,5 +36,3 @@ print(username)
 
 //Error
 //let score: Int = "Zero"
-
-

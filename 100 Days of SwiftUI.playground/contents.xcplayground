@@ -12,5 +12,7 @@
         <page name='Sets'/>
         <page name='Annotations'/>
         <page name='Enums'/>
+        <page name='2.Complex Data Types Summary'/>
+        <page name='2Checkpoint'/>
     </pages>
 </playground>

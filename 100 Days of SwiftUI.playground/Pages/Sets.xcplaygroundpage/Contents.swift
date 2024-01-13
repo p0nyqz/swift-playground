@@ -2,6 +2,7 @@
 
 import Foundation
 
+// Sets
 let people = Set(["Danzel Washington", "Tom Cruise", "Nicolas Cage", "Samuel L Jackson"])
 print(people)
 
